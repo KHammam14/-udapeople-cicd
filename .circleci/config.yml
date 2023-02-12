@@ -230,9 +230,10 @@ jobs:
       - install_awscli
       - run:
           name: Run migrations
-          command: |
+          command: | 
             cd backend
             npm install
+            npm update
             npm run migrations > migrations_dump.txt
       - run:
           name: Send migration status to kvdb.io
