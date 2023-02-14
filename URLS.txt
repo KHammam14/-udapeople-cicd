@@ -1,0 +1,3 @@
+
+https://udapeople-bc8ced5.s3.amazonaws.com/index.html#/employees >> S3 Bucket URL
+https://github.com/KHammam14/udapeople-cicd >> Github Repo
