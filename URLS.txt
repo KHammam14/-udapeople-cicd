@@ -4,6 +4,6 @@ http://do09z5u4otzx9.cloudfront.net/#/employees >> Cloudfront URL
 
 http://udapeople-59bc9d2.s3.amazonaws.com/index.html >> S3 Bucket URL
 
-http://18.204.10.120:9090/alerts?search= >>  prometheus endpoint
+http://52.86.226.102:9090/rules >>  prometheus endpoint
 
 http://34.230.189.123:3030/api/status >>  Backend Ip
