@@ -1,5 +1,9 @@
-http://d1jc9xspe308it.cloudfront.net/#/employees >> Cloudfront URL 
-https://udapeople-bc8ced5.s3.amazonaws.com/index.html#/employees >> S3 Bucket URL
 https://github.com/KHammam14/udapeople-cicd >> Github Repo
-http://3.84.205.255:9090/graph >>  prometheus endpoint
+
+http://d1jc9xspe308it.cloudfront.net/#/employees >> Cloudfront URL 
+
+https://udapeople-bc8ced5.s3.amazonaws.com/index.html#/employees >> S3 Bucket URL
+
+http://100.25.151.29/:9090/graph >>  prometheus endpoint
+
 http://54.152.109.152:3030/api/status >>  Backend Ip
